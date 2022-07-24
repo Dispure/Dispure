@@ -10,6 +10,8 @@ I'm **Dispure**: A Web Developer from ZheJiang, CN. Current studying in junior m
 - Nuxt.JS
 - Vuetify.JS
 - Flask
+- React
+- Next.JS
 #### 💫 Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dispure)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dispure&hide=html)](https://github.com/anuraghazra/github-readme-stats)  
