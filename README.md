@@ -3,8 +3,9 @@
 I'm **Dispure**: A Web Developer from ZheJiang, CN. Current studying in junior middle school.
 
 #### 🔭 I’m currently working on these following projects:
-- Dispure/HClass (Private Repo)  
-- Incloudify/consolify-frontend
+- Dispure/HClass  
+- Incloudify/consolify-frontend  
+- Dispure/HTableUI
 #### 🌱 I’m currently learning:
 - Vue.JS
 - Nuxt.JS
