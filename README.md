@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Dispure**: A Web Developer from ZheJiang, CN. Current studying in junior middle school.
+I'm **Dispure**: A Web Developer from ZheJiang, CN. Currently studying in junior middle school.
 
 #### 🔭 I’m currently working on these following projects:
 - Dispure/HClass  
